@@ -2,7 +2,10 @@
 # source: ip.txt
 # domain: translate.googleapis.com
 # 60 addresses
-35.194.154.71 translate.googleapis.com
+47.98.142.11 translate.googleapis.com
+8.138.131.24 translate.googleapis.com
+8.137.83.3 translate.googleapis.com
+8.137.102.117 translate.googleapis.com
 8.138.21.175 translate.googleapis.com
 8.134.173.202 translate.googleapis.com
 103.25.60.164 translate.googleapis.com
@@ -18,9 +21,7 @@
 106.14.123.253 translate.googleapis.com
 101.200.228.15 translate.googleapis.com
 123.56.100.109 translate.googleapis.com
-8.137.83.3 translate.googleapis.com
 8.130.102.87 translate.googleapis.com
-8.137.102.117 translate.googleapis.com
 47.103.46.164 translate.googleapis.com
 47.110.251.133 translate.googleapis.com
 47.100.131.92 translate.googleapis.com
@@ -61,4 +62,3 @@
 185.242.247.80 translate.googleapis.com
 185.242.247.70 translate.googleapis.com
 62.60.246.191 translate.googleapis.com
-60.205.205.173 translate.googleapis.com
